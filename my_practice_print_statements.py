@@ -60,6 +60,7 @@ print(10%3)"""
 "prashu"
 """print("prashu")
 print("prashu's laptop")
+
 print('prashu "laptop"')
 print('prashu\'s "laptop"')
 print('prashu+prashu')
@@ -73,8 +74,30 @@ y = 3
 z = x+y
 print(z)"""
 
-"""print("name='prashanth'")
+print("name='prashanth'")
 print("name+'rocks'")
-print('length("name")')"""
+print('length("name")')
 nums = [23,12,36,44]
 nums[4]
+
+
+str1 = "prashanth"
+srt2 = "reddeppa123"
+#concatination of string
+conc_str1_and_str2 = str1 + str2
+print("concatination of str1 and str2 is {}".format(conc_str1_and_str2))
+
+
+ str1 = "prashu"
+ str2 = "reddy"
+ str3 = "@123"
+#concatination of strings
+conc_str1_and_str2_and_str3 = str1 + str2 + str3
+print("concatination of str1 and str2 and str3 is {}".format(conc_str1_and_str2_and_str3))
+
+str1 = "prashu"
+str2 = "reddy"
+#concatination of string
+conc_str1_and_str2_and = str1 + str2
+print("concatination of str1 and str2 is {}".format(conc_str1_and_str2))
+
