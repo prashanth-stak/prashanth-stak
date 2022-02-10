@@ -88,9 +88,9 @@ conc_str1_and_str2 = str1 + str2
 print("concatination of str1 and str2 is {}".format(conc_str1_and_str2))
 
 
- str1 = "prashu"
- str2 = "reddy"
- str3 = "@123"
+str1 = "prashu"
+str2 = "reddy"
+str3 = "@123"
 #concatination of strings
 conc_str1_and_str2_and_str3 = str1 + str2 + str3
 print("concatination of str1 and str2 and str3 is {}".format(conc_str1_and_str2_and_str3))
