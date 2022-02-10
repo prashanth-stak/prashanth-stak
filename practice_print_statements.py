@@ -81,6 +81,7 @@ str3 = "python123"            #collection of combination of numbers and alphabet
 str4 = 'python@123'           #collection of alphanumeric and symbols
 
 # concatination of string
+
 conc_str1_and_str2 = str1 + str2
 print("concatination of str1 and str2 is {}".format(conc_str1_and_str2))
 
