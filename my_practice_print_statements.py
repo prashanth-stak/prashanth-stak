@@ -74,7 +74,7 @@ y = 3
 z = x+y
 print(z)"""
 
-print("name='prashanth'")
+"""print("name='prashanth'")
 print("name+'rocks'")
 print('length("name")')
 nums = [23,12,36,44]
@@ -93,11 +93,103 @@ str2 = "reddy"
 str3 = "@123"
 #concatination of strings
 conc_str1_and_str2_and_str3 = str1 + str2 + str3
-print("concatination of str1 and str2 and str3 is {}".format(conc_str1_and_str2_and_str3))
+print("concatination of str1 and str2 and str3 is {}".format(conc_str1_and_str2_and_str3))"""
 
-str1 = "prashu"
+"""str1 = "prashu"
 str2 = "reddy"
 #concatination of string
 conc_str1_and_str2_and = str1 + str2
+print("concatination of str1 and str2 is {}".format(conc_str1_and_str2))"""
+# indexing of a string
+
+"""str5 = "Introduction"
+ind_of_d = str5[5]
+ind_of_I = str5[0]
+rev_of_n = str5[-1]
+rev_of_r = str5[-9]
+print("Element in fifth position is {}".format(ind_of_d))
+print("Element in in zeroth position is {}".format(ind_of_I))
+print("Element in -1th position is {}".format(rev_of_n))
+print("Element in -9th position is {}".format(rev_of_r))"""
+
+"""str6 = "MalAyaLam"
+ind_of_M = str6[0]
+ind_of_a = str6[1]
+ind_of_l = str6[2]
+ind_of_A = str6[3]
+ind_of_y = str6[4]
+ind_of_a = str6[5]
+ind_Of_L = str6[6]
+ind_of_a = str6[7]
+ind_of_m = str6[8]
+rev_of_M = str6[-9]
+rev_of_a = str6[-8]
+rev_of_l = str6[-7]
+rev_of_A = str6[-6]
+rev_of_y = str6[-5]
+rev_of_a = str6[-4]
+rev_of_L = str6[-3]
+rev_of_a = str6[-2]
+rev_of_m = str6[-1]
+print("Element in zeroth position is {}".format(ind_of_M))
+print("Element in first position is {}".format(ind_of_a))
+print("Element in second position is {}".format(ind_of_l))
+print("Element in third position is {}".format(ind_of_A))
+print("Element in fourth position is {}".format(ind_of_y))
+print("Element in fifth position is {}".format(ind_of_a))
+print("Element in sixth position is {}".format(ind_of_L))
+print("Element in seventh position is {}".format(ind_of_a))
+print("Element in eighth position is {}".format(ind_of_m))
+print("Element in -1th position is {}".format(rev_of_m))
+print("Element in -2th position is {}".format(rev_of_a))
+print("Element in -3rd position is {}".format(rev_of_L))
+print("Element in -4th position is {}".format(rev_of_a))
+print("Element in -5th position is {}".format(rev_of_y))
+print("Element in -6th position is {}".format(rev_of_A))
+print("Element in -7th position is {}".format(rev_of_l))
+print("Element in -8th position is {}".format(rev_of_a))
+print("Element in -9th position is {}".format(rev_of_M))"""
+
+srt1 = "water"
+str2 = "fall"
+#concatination of two strings
+conc_str1_and_str2_and = str1 + str2
 print("concatination of str1 and str2 is {}".format(conc_str1_and_str2))
 
+str3 = "waterfall"
+ind_of_w = str3[0]
+ind_of_a = str3[1]
+ind_of_t = str3[2]
+ind_of_e = str3[3]
+ind_of_r = str3[4]
+ind_of_f = str3[5]
+ind_of_a = str3[6]
+ind_of_l = str3[7]
+ind_of_l = str3[8]
+rev_of_w = str3[-9]
+rev_of_a = str3[-8]
+rev_of_t = str3[-7]
+rev_of_e = str3[-6]
+rev_of_r = str3[-5]
+rev_of_f = str3[-4]
+rev_of_a = str3[-3]
+rev_of_l = str3[-2]
+rev_of_l = str3[-1]
+print("Element in zeroth position is {}".format(ind_of_w))
+print("Element in first position is {}".format(ind_of_a))
+print("Element in second position is {}".format(ind_of_t))
+print("Element in third position is {}".format(ind_of_e))
+print("Element in fourth position is {}".format(ind_of_r))
+print("Element in fifth position is {}".format(ind_of_f))
+print("Element in sixth position is {}".format(ind_of_a))
+print("Element in seventh position is {}".format(ind_of_l))
+print("Element in eighth position is {}".format(ind_of_l))
+print("Element in -1th position is {}".format(rev_of_l))
+print("Element in -2th position is {}".format(rev_of_l))
+print("Element in -3rd position is {}".format(rev_of_a))
+print("Element in -4th position is {}".format(rev_of_f))
+print("Element in -5th position is {}".format(rev_of_r))
+print("Element in -6th position is {}".format(rev_of_e))
+print("Element in -7th position is {}".format(rev_of_t))
+print("Element in -8th position is {}".format(rev_of_a))
+print("Element in -9th position is {}".format(rev_of_w))
