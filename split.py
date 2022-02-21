@@ -46,6 +46,9 @@ str_lower = str1_capt.islower()
 print("checking whether string is lower {}".format(str_lower))
 str_low = str1_capt.lower()
 print("Lower string is {}".format(str_low))
+
+
+
 str2 = "PYTHON"
 print("checking whether string is upper {}".format(str2.isupper()))
 print("checking whether string is upper {}".format(str1_capt.isupper()))
