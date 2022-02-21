@@ -44,6 +44,7 @@ str1_lower = str1.islower()
 print("checking whether string is lower {}".format(str1_lower))
 str_lower = str1_capt.islower()
 print("checking whether string is lower {}".format(str_lower))
+
 str_low = str1_capt.lower()
 print("Lower string is {}".format(str_low))
 
